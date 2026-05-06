@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Fever,Cough,Headache,BP,Sugar,Cholesterol,Medical_History,Disease
+1,25,Male,1,1,0,120,85,180,None,Flu
+2,45,Female,0,1,1,140,160,220,Diabetes,Heart Disease
+3,35,Male,1,1,1,130,120,200,None,Flu
+4,50,Female,0,0,1,150,180,240,Hypertension,Heart Disease
+5,23,Male,1,1,0,110,90,170,None,Flu
+6,60,Female,0,0,1,160,200,260,Diabetes,Heart Disease
+7,48,Male,0,0,1,145,170,230,Hypertension,Heart Disease
+8,33,Female,1,1,1,135,140,210,None,Flu
+9,55,Male,0,0,1,155,190,250,Diabetes,Heart Disease
+10,29,Female,1,1,0,125,100,190,None,Flu
+11,41,Male,0,1,1,138,165,215,Diabetes,Heart Disease
+12,38,Female,1,1,1,132,110,205,None,Flu
+13,52,Male,0,0,1,148,175,235,Hypertension,Heart Disease
+14,27,Female,1,1,0,118,95,185,None,Flu
+15,46,Male,0,1,1,142,160,225,Diabetes,Heart Disease
+16,31,Female,1,1,0,128,105,195,None,Flu
+17,58,Male,0,0,1,152,185,245,Hypertension,Heart Disease
+18,36,Female,1,1,1,134,115,200,None,Flu
+19,49,Male,0,1,1,146,170,230,Diabetes,Heart Disease
+20,26,Female,1,1,0,122,90,180,None,Flu
